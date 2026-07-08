@@ -10,7 +10,7 @@ Mi aprendizaje diario se centra en transformar código funcional en arquitectura
 ## 💻 Stack Tecnológico
 Mi stack actual se basa en el ecosistema .NET, donde aplico principios de diseño para asegurar calidad y rendimiento:
 
-- **Desarrollo Backend:** Dominio de C# y ASP.NET MVC para crear sistemas robustos.
+- **Desarrollo Backend:** Dominio de C# y .NET,ASP.NET MVC/WEB API para crear sistemas robustos.
 - **Arquitectura:** Especializado en el patrón de 3 capas, optimización avanzada en SQL Server e implementación de lógica de negocios eficiente.
 - **Cloud & Infraestructura:** Aprendiendo activamente sobre despliegue y arquitectura cloud para asegurar que mis soluciones sean modernas y seguras.
 - **Frontend:** En constante aprendizaje para integrar interfaces dinámicas (React, Angular, Flutter).
