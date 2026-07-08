@@ -18,7 +18,7 @@ Mi stack actual se basa en el ecosistema .NET, donde aplico principios de diseñ
 ## 🤝 Oportunidades y Conexiones
 Estoy en una etapa de crecimiento acelerado y **abierto a oportunidades de colaboración, pasantías o proyectos** donde pueda aportar mis conocimientos actuales y seguir desarrollando mis habilidades.
 
-- **LinkedIn:** [Ángel Rojas]((https://www.linkedin.com/in/angel-luis-rojas-a63886328/))
+- **LinkedIn:** (https://www.linkedin.com/in/angel-luis-rojas-a63886328/)
 - **Email:** Angelluisgamer76@gmail.com
 - **Ubicación:** República Dominicana
 
