@@ -3,7 +3,7 @@
 Estudiante de Ingeniería de Software en la Universidad Federico Henríquez y Carvajal (UFHEC). Estoy en constante proceso de formación, enfocado en construir bases sólidas en arquitectura de software y desarrollo de soluciones empresariales.
 
 ## 🚀 Enfoque Actual
-Actualmente, mi energía está volcada en el desarrollo de **Arcode Solutions**, un proyecto personal de consultoría con el que busco llevar la eficiencia tecnológica al mercado financiero y empresarial de la República Dominicana.
+Actualmente, mi energía está volcada en el desarrollo de **Arcode Solutions**, un proyecto personal de consultoría con el que busco llevar la eficiencia tecnológica al mercado de las Pymes de la República Dominicana.
 
 Mi aprendizaje diario se centra en transformar código funcional en arquitecturas profesionales y escalables.
 
