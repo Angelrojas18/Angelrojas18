@@ -20,4 +20,4 @@ Estoy en una etapa de crecimiento acelerado y **abierto a oportunidades de colab
 - **Email:** Angelluisgamer76@gmail.com/Angel_Rojas012026@outlook.es
 - **Ubicación:** República Dominicana
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,azure,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,azure,git,react,angular,flutter)](https://skillicons.dev)
