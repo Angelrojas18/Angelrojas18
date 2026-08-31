@@ -1,10 +1,17 @@
-<h1 align="center">Angel Luis Rojas</h1>
+## Angel Luis Rojas Lugo
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Ingeniero+de+Software+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+Arquitectura+de+Sistemas;Construyendo+sistemas+reales" alt="Typing SVG" />
-</p>
+> quien_soy
+Ángel Luis Rojas Lugo
+
+> rol
+Estudiante de Ingeniería de Software en la Universidad Federico Henríquez y Carvajal (UFHEC), enfocado en el desarrollo backend con C# y .NET, integración de arquitecturas limpias y exploración de tecnologías frontend modernas.
+
+> filosofia
+"Construir seguro, limpio y para escalar, transformando requerimientos complejos en soluciones reales y eficientes."
+
+
 ## 💻 Stack Tecnológico
-Mi stack actual se basa en el ecosistema .NET, donde aplico principios de diseño para asegurar calidad y rendimiento:
+Mi stack actual se basa en el ecosistema .NET para backend, y frontend moderno donde aplico principios de diseño para asegurar calidad y rendimiento:
 
 - **Desarrollo Backend:** Dominio de C# y .NET, ASP.NET MVC/WEB API para crear sistemas robustos.
 - **Arquitectura:** Especializado en el patrón MVC y Clean Arquithecture, optimización avanzada en SQL Server e implementación de lógica de negocios eficiente.
