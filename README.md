@@ -1,10 +1,8 @@
-# ¡Hola! Soy Ángel Luis Rojas Lugo
+<h1 align="center">Angel Luis Rojas</h1>
 
-Estudiante de Ingeniería de Software en la Universidad Federico Henríquez y Carvajal (UFHEC). Estoy en constante proceso de formación, enfocado en construir bases sólidas en arquitectura de software y desarrollo de soluciones empresariales.
-
-
-Mi aprendizaje diario se centra en transformar código funcional en arquitecturas profesionales y escalables.
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Ingeniero+de+Software+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+Arquitectura+de+Sistemas;Construyendo+sistemas+reales" alt="Typing SVG" />
+</p>
 ## 💻 Stack Tecnológico
 Mi stack actual se basa en el ecosistema .NET, donde aplico principios de diseño para asegurar calidad y rendimiento:
 
@@ -13,6 +11,8 @@ Mi stack actual se basa en el ecosistema .NET, donde aplico principios de diseñ
 - **Cloud & Infraestructura:** Aprendiendo activamente sobre despliegue y arquitectura cloud para asegurar que mis soluciones sean modernas y seguras.
 - **Frontend:** En constante aprendizaje para integrar interfaces dinámicas (React, Angular, Flutter).
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,azure,git,react,angular,flutter)](https://skillicons.dev)
+
 ## 🤝 Oportunidades y Conexiones
 Estoy en una etapa de crecimiento acelerado y **abierto a oportunidades de colaboración, pasantías o proyectos** donde pueda aportar mis conocimientos actuales y seguir desarrollando mis habilidades.
 
@@ -20,4 +20,3 @@ Estoy en una etapa de crecimiento acelerado y **abierto a oportunidades de colab
 - **Email:** Angelluisgamer76@gmail.com/Angel_Rojas012026@outlook.es
 - **Ubicación:** República Dominicana
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,azure,git,react,angular,flutter)](https://skillicons.dev)
