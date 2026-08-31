@@ -1,12 +1,12 @@
 ## Angel Luis Rojas Lugo
 
-> quien_soy
+## quien soy:
 Ángel Luis Rojas Lugo
 
-> rol
+## rol:
 Estudiante de Ingeniería de Software en la Universidad Federico Henríquez y Carvajal (UFHEC), enfocado en el desarrollo backend con C# y .NET, integración de arquitecturas limpias y exploración de tecnologías frontend modernas.
 
-> filosofia
+## filosofia:
 "Construir seguro, limpio y para escalar, transformando requerimientos complejos en soluciones reales y eficientes."
 
 
