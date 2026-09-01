@@ -1,14 +1,5 @@
 ## Angel Luis Rojas Lugo
-
-## quien soy:
-Ángel Luis Rojas Lugo
-
-## rol:
-Estudiante de Ingeniería de Software en la Universidad Federico Henríquez y Carvajal (UFHEC), enfocado en el desarrollo backend con C# y .NET, integración de arquitecturas limpias y exploración de tecnologías frontend modernas.
-
-## filosofia:
-"Construir seguro, limpio y para escalar, transformando requerimientos complejos en soluciones reales y eficientes."
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola,+soy+desarrollador;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
 
 ## 💻 Stack Tecnológico
 Mi stack actual se basa en el ecosistema .NET para backend, y frontend moderno donde aplico principios de diseño para asegurar calidad y rendimiento:
