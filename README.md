@@ -1,7 +1,6 @@
 ## Angel Luis Rojas Lugo
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola,+soy+desarrollador;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
 
-# Estudiante de ingenieria de software en universidad UFHEC 
 
 ## 💻 Stack Tecnológico
 Mi stack actual se basa en el ecosistema .NET para backend, y frontend moderno donde aplico principios de diseño para asegurar calidad y rendimiento:
