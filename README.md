@@ -16,6 +16,6 @@ Mi stack actual se basa en el ecosistema .NET para backend, y frontend moderno d
 Estoy en una etapa de crecimiento acelerado y **abierto a oportunidades de colaboración, pasantías o proyectos** donde pueda aportar mis conocimientos actuales y seguir desarrollando mis habilidades.
 
 - **LinkedIn:** (https://www.linkedin.com/in/angel-luis-rojas-a63886328/)
-- **Email:** Angelluisgamer76@gmail.com/Angel_Rojas012026@outlook.es
+- **Email:** AngeluisRojas19@outlook.es
 - **Ubicación:** República Dominicana
 
